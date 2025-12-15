@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antiban", "Antiban.csproj", "{D25CC7FC-4483-4049-953F-34D28B4B0348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D25CC7FC-4483-4049-953F-34D28B4B0348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25CC7FC-4483-4049-953F-34D28B4B0348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25CC7FC-4483-4049-953F-34D28B4B0348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25CC7FC-4483-4049-953F-34D28B4B0348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAB6AC81-0E3F-47CB-8C5B-D074D6F15EE6}
+	EndGlobalSection
+EndGlobal
